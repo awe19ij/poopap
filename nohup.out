@@ -1,0 +1,222 @@
+[2024-05-09 19:10:44 +0000] [121523] [INFO] Starting gunicorn 22.0.0
+[2024-05-09 19:10:44 +0000] [121523] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-09 19:10:44 +0000] [121523] [ERROR] Retrying in 1 second.
+[2024-05-09 19:10:45 +0000] [121523] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-09 19:10:45 +0000] [121523] [ERROR] Retrying in 1 second.
+[2024-05-09 19:10:46 +0000] [121523] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-09 19:10:46 +0000] [121523] [ERROR] Retrying in 1 second.
+[2024-05-09 19:10:47 +0000] [121523] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-09 19:10:47 +0000] [121523] [ERROR] Retrying in 1 second.
+[2024-05-09 19:10:48 +0000] [121523] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-09 19:10:48 +0000] [121523] [ERROR] Retrying in 1 second.
+[2024-05-09 19:10:49 +0000] [121523] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-05-30 15:15:32 +0000] [319767] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 15:15:32 +0000] [319767] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:32 +0000] [319767] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:33 +0000] [319767] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:33 +0000] [319767] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:34 +0000] [319767] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:34 +0000] [319767] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:35 +0000] [319767] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:35 +0000] [319767] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:36 +0000] [319767] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:36 +0000] [319767] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:37 +0000] [319767] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-05-30 15:15:43 +0000] [319768] [INFO] Starting gunicorn 22.0.0
+[2024-05-30 15:15:43 +0000] [319768] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:43 +0000] [319768] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:44 +0000] [319768] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:44 +0000] [319768] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:45 +0000] [319768] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:45 +0000] [319768] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:46 +0000] [319768] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:46 +0000] [319768] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:47 +0000] [319768] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-05-30 15:15:47 +0000] [319768] [ERROR] Retrying in 1 second.
+[2024-05-30 15:15:48 +0000] [319768] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-06-01 18:35:12 +0000] [8932] [INFO] Starting gunicorn 22.0.0
+[2024-06-01 18:35:12 +0000] [8932] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:12 +0000] [8932] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:13 +0000] [8932] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:13 +0000] [8932] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:14 +0000] [8932] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:14 +0000] [8932] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:15 +0000] [8932] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:15 +0000] [8932] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:16 +0000] [8932] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:16 +0000] [8932] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:17 +0000] [8932] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-06-01 18:35:27 +0000] [8933] [INFO] Starting gunicorn 22.0.0
+[2024-06-01 18:35:27 +0000] [8933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:27 +0000] [8933] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:28 +0000] [8933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:28 +0000] [8933] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:29 +0000] [8933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:29 +0000] [8933] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:30 +0000] [8933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:30 +0000] [8933] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:31 +0000] [8933] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2024-06-01 18:35:31 +0000] [8933] [ERROR] Retrying in 1 second.
+[2024-06-01 18:35:32 +0000] [8933] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2024-06-01 18:37:53 +0000] [8992] [INFO] Starting gunicorn 22.0.0
+[2024-06-01 18:37:53 +0000] [8992] [INFO] Listening at: http://0.0.0.0:8000 (8992)
+[2024-06-01 18:37:53 +0000] [8992] [INFO] Using worker: sync
+[2024-06-01 18:37:53 +0000] [8993] [INFO] Booting worker with pid: 8993
+[2024-06-01 18:58:25 +0000] [8992] [INFO] Handling signal: hup
+[2024-06-01 18:58:25 +0000] [8992] [INFO] Hang up: Master
+[2024-06-01 18:58:25 +0000] [8992] [ERROR] Worker (pid:8993) was sent SIGHUP!
+[2024-06-01 18:58:25 +0000] [9103] [INFO] Booting worker with pid: 9103
+[2024-06-01 19:18:35 +0000] [8992] [CRITICAL] WORKER TIMEOUT (pid:9103)
+[2024-06-01 19:18:35 +0000] [9103] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+           ^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+        ^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-06-01 19:18:35 +0000] [9103] [INFO] Worker exiting (pid: 9103)
+[2024-06-01 19:18:35 +0000] [9600] [INFO] Booting worker with pid: 9600
+matplotlib data path: /home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/matplotlib/mpl-data
+CONFIGDIR=/home/ictgcp008/.config/matplotlib
+interactive is False
+platform is linux
+CACHEDIR=/home/ictgcp008/.cache/matplotlib
+Using fontManager instance from /home/ictgcp008/.cache/matplotlib/fontlist-v390.json
+[nltk_data] Downloading package punkt to /home/ictgcp008/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/signUp/
+Bad Request: /users/logIn/
+Bad Request: /users/logIn/
+Not Found: /users/logIn/
+Not Found: /users/logIn/
+Unauthorized: /users/logOut/
+Unauthorized: /users/logOut/
+Received data: {'input_field': '기술', 'input_job': '소프트웨어 엔지니어', 'selected_categories': ['problem_solving', 'communication_skills']}
+Starting new HTTPS connection (1): api.openai.com:443
+https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+Processing complete
+Received data: {'input_job': '소프트웨어 엔지니어', 'selected_categories': ['problem_solving', 'communication_skills']}
+Missing input field or job
+Bad Request: /interview_questions/
+Bad Request: /interview_questions/
+Starting new HTTPS connection (1): api.openai.com:443
+https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+Forbidden: /mylog/3/1/scripts/
+Forbidden: /mylog/3/1/scripts/
+Forbidden: /mylog/3/4/scripts/
+Forbidden: /mylog/3/4/scripts/
+Forbidden: /mylog/3/2/scripts/
+Forbidden: /mylog/3/2/scripts/
+Forbidden: /mylog/3/2/scripts/
+Forbidden: /mylog/3/2/scripts/
+Forbidden: /mylog/3/5/scripts/
+Forbidden: /mylog/3/5/scripts/
+Forbidden: /mylog/3/1/scripts/
+Forbidden: /mylog/3/1/scripts/
+Not Found: /mylog//2/scripts/
+Not Found: /mylog//2/scripts/
+Forbidden: /mylog/3/interviews/
+Forbidden: /mylog/3/interviews/
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+[2024-06-01 19:34:09 +0000] [9600] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+          ^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 281, in parse
+    self.parse_request_line(line)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/message.py", line 445, in parse_request_line
+    raise InvalidHTTPVersion(self.version)
+gunicorn.http.errors.InvalidHTTPVersion: <exception str() failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/base.py", line 142, in init_process
+    self.run()
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 126, in run
+    self.run_for_one(timeout)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 70, in run_for_one
+    self.accept(listener)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 32, in accept
+    self.handle(listener, client, addr)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/sync.py", line 158, in handle
+    self.handle_error(req, client, addr, e)
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/workers/base.py", line 225, in handle_error
+    mesg = "Invalid HTTP Version '%s'" % str(exc)
+                                         ^^^^^^^^
+  File "/home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/gunicorn/http/errors.py", line 56, in __str__
+    return "Invalid HTTP Version: %r" % self.version
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[2024-06-01 19:34:09 +0000] [9600] [INFO] Worker exiting (pid: 9600)
+[2024-06-01 19:34:09 +0000] [8992] [ERROR] Worker (pid:9600) exited with code 255
+[2024-06-01 19:34:09 +0000] [8992] [ERROR] Worker (pid:9600) exited with code 255.
+[2024-06-01 19:34:09 +0000] [9683] [INFO] Booting worker with pid: 9683
+matplotlib data path: /home/ictgcp008/Backend/myenv/lib/python3.11/site-packages/matplotlib/mpl-data
+CONFIGDIR=/home/ictgcp008/.config/matplotlib
+interactive is False
+platform is linux
+CACHEDIR=/home/ictgcp008/.cache/matplotlib
+Using fontManager instance from /home/ictgcp008/.cache/matplotlib/fontlist-v390.json
+[nltk_data] Downloading package punkt to /home/ictgcp008/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+Forbidden: /mylog/3/2/scripts/
+Forbidden: /mylog/3/2/scripts/
